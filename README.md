@@ -1,6 +1,25 @@
-Hi there 👋 I'm Shreenidhi, a Linux Enthusiast with 4+ years of experience in backend development and system engineering, I’m currently pursuing a Master’s in Computer Science at the Rochester Institute of Technology (Graduating May 2025, GPA: 3.78), with a strong focus on development in Linux environments, system performance as well as optimization, and delivering scalable solutions.
+## Hi there 👋 I'm Shreenidhi Acharya
 
-- 🔭 I’m currently Machine Learning Domain
-- 📫 How to reach me: shreenidhiacharya7@gmail.com
-- 😄 Pronouns: She/Her
+I’m a Linux enthusiast and backend developer with 3.5 years of industry experience in building scalable, secure, and performant systems. Currently, I’m a recent Master’s in Computer Science Graduate from Rochester Institute of Technology, with a focus on backend development, system optimization, and cloud-integrated solutions.
 
+🚀 Lately, I’ve developed a strong interest in **building scalable data pipelines** using **Apache Airflow** to simplify and automate complex data ingestion tasks.  
+📊 My recent capstone project involves building an **Employment Recommendation System and Skill Gap Analysis Engine** using NLP, clustering, and similarity matching techniques to help job seekers identify roles and missing skills based on their resume.
+
+---
+
+### 🔍 Areas of Interest
+- Backend Development in Linux Environments
+- Scalable Data Pipelines with Apache Airflow
+- System Performance Monitoring & Automation
+- Cloud Technologies (AWS: Lambda, S3, MWAA)
+- Machine Learning for Real-World Applications
+
+---
+
+### 📫 How to reach me
+- Email: shreenidhiacharya7@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shreenidhia/
+
+---
+
+😄 Pronouns: She/Her
