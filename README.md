@@ -9,7 +9,6 @@ I’m a Linux enthusiast and backend developer with 3.5 years of industry experi
 
 ### 🔍 Areas of Interest
 - Backend Development using Python
-- Scalable Data Pipelines with Apache Airflow
 - Machine Learning for Real-World Applications
 
 ---
