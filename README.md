@@ -11,6 +11,8 @@ I’m a Linux enthusiast and backend engineer passionate about building robust, 
 - Backend Development (Python, FastAPI, Flask)  
 - AI-Powered Automation
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreenidhi11)](https://github.com/shreenidhi11/github-readme-stats)
+
 📫 How to reach me  
 📧 Email: [shreenidhiacharya7@gmail.com](mailto:shreenidhiacharya7@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/shreenidhia](https://www.linkedin.com/in/shreenidhia)  
